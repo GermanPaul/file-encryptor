@@ -1,0 +1,16 @@
+{
+  "name": "file-encryptor",
+  "version": "1.0.0",
+  "description": "Tool for encryption/decryption of files using AES-256-CBC.",
+  "main": "src/index.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "util": "^0.12.4"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "German Pretelt",
+  "license": "ISC"
+}
